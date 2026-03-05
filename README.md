@@ -3,8 +3,8 @@
 Welcome to my GitHub! I'm a passionate second-year Computer Science student at the Warsaw University of Technology. I'm always eager to learn new technologies, collaborate on projects, and build useful tools. I specialize in web applications and backend systems development. Feel free to explore my work below and connect with me!
 
 ## 🎯 Skills & Technologies
-- **Programming Languages:** Java, JavaScript, Python, C/C++, SQL, PL/SQL
-- **Frameworks & Technologies:** React, OracleSQL
+- **Programming Languages:** Java, JavaScript, Python, C/C++, C#, SQL, PL/SQL
+- **Frameworks & Technologies:** React, OracleSQL, PostrgreSQL
 
 ## 🧑‍💻 Projects
 - **[PAP](https://github.com/bs-pw/PAP)**: A system to manage studies (grades, semesters, courses).  
@@ -12,6 +12,9 @@ Welcome to my GitHub! I'm a passionate second-year Computer Science student at t
 
 - **[Marketplace](https://github.com/skyrtap/marketplace)**: An application for posting and viewing ads.  
   *Technologies used: C++*
+
+- **[Hotel Manager Website]([https://github.com/skyrtap/marketplace](https://github.com/bs-pw/hotel-manager-website))**: Hotel reservations and managment.  
+  *Technologies used: C#, React, PostgreSQL*
 
 - **[Order & Chaos](https://github.com/skyrtap/order_and_chaos)**: A simple object-oriented game with various agents.  
   *Technologies used: Python*
