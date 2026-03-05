@@ -16,6 +16,9 @@ Welcome to my GitHub! I'm a passionate second-year Computer Science student at t
 - **[Order & Chaos](https://github.com/skyrtap/order_and_chaos)**: A simple object-oriented game with various agents.  
   *Technologies used: Python*
 
+- **[NEAT](https://github.com/q3eq3e/NEAT-NeuroEvolution-of-Augmenting-Topologies)**: NEAT implementation project for AI Student Club  
+  *Technologies used: Python*
+
 ## 🌍 Languages
 - **Polish** - Native
 - **English** - B2 (Intermediate)
